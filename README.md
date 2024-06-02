@@ -1,7 +1,7 @@
 <h1 align="center">Excelente dia! 👋, Eu sou o Rafael Felipe Ferreira</h1>
-<h3 align="center">Um rapaz que aprendeu bastante coisa até aqui, e ainda anseia por aprender muito mais. Atualmente bastante impressionado pelo 'Data Science Universe' e estudando Python. Conheço SQL e muitos desafios de negócios Gostaria de mencionar que já tive experiências com contabilidade, administração e finanças. Geri uma empresa no comércio varejo em São Paulo e já participei de alguns projetinhos legais :D Possuo formação Técnica em TI e em Análise de Comércio Exterior</h3>
+<h3 align="center">Aprendi bastante coisa até aqui, e ainda anseia por aprender e aplicar muito mais. Meu foco é Dados em Análise, atualmente estudando Ciência de Dados na Data Science Academy. Conheço e aplico soluções com Python, uso bastante o Jupyter Notebook, faço extração, limpeza, encoding, ploto vizualizações sempre seguindo com muita análise e geração de insights. Conheço bastante SQL e sei a importância e relevância dessa ferramenta no uso dos dados estruturadosm Gostaria de mencionar que já tive experiências com contabilidade, administração e finanças. Geri uma empresa no comércio varejo em São Paulo e já participei de alguns projetinhos legais :D Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
 
-- 🔭 Atualmente estou com um projeto de portfólio pessoal usando Python **Loading |▣▣▣◻◻◻◻◻◻◻|**
+- 🔭 Atualmente estou com um projeto de portfólio pessoal usando Python **Loading |▣▣▣▣▣▣◻◻◻◻|**
 
 - 📫 Email para contato **rafael.rfdesign@gmail.com**
 
