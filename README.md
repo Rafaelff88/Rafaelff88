@@ -1,5 +1,5 @@
 <h1 align="center">Excelente dia! 👋, Eu sou o Rafael Felipe Ferreira</h1>
-<h3 align="center">Aprendi bastante coisa até aqui, e ainda anseia por aprender e aplicar muito mais. 
+<h3 align="center">Aprendi bastante coisa até aqui, e ainda anseia por aprender e aplicar muito mais. \n
   Meu foco é Dados em Análise, atualmente estudando Ciência de Dados na Data Science Academy. 
   Conheço e aplico soluções com Python, uso bastante o Jupyter Notebook, faço extração, limpeza, encoding, ploto vizualizações sempre seguindo com muita análise e geração de insights. 
   Gosto de utilizar o Power BI como ferramenta para agregar e gerar Relatórios Dashboards dos dados 
