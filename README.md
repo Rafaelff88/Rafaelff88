@@ -1,12 +1,13 @@
 <h1 align="center">Excelente dia! 👋, Eu sou o Rafael Felipe Ferreira</h1>
-<h3 align="center">Aprendi bastante coisa até aqui, e ainda anseia por aprender e aplicar muito mais. 
-  Meu foco é Dados em Análise, atualmente estudando Ciência de Dados na Data Science Academy. 
-  Conheço e aplico soluções com Python, uso bastante o Jupyter Notebook, faço extração, limpeza, encoding, ploto vizualizações sempre seguindo com muita análise e geração de insights. 
+<h2 align="center">Aprendi bastante coisa até aqui, e anseio por aprender e aplicar muito mais.</h2>
+<h3 align-"center">  
+  Meu foco é Dados em Análise de dados, atualmente estudando Engenharia de Dados na Data Science Academy. 
+  Conheço e aplico soluções com Python, usando bastante o Jupyter Notebook, faço extração, limpeza, encoding, ploto vizualizações objetivando boas gerações de insights. 
   Gosto de utilizar o Power BI como ferramenta para agregar e gerar Relatórios Dashboards dos dados 
   Conheço bastante SQL e sei a importância e relevância dessa ferramenta no uso dos dados estruturados
-  Gostaria de mencionar que já tive experiências com contabilidade, administração e finanças. Geri uma empresa no comércio varejo em São Paulo  por mais de dez anos e já participei de alguns projetinhos legais :D 
+  Gostaria de mencionar que já tive experiências com contabilidade, administração e finanças. Geri uma empresa no comércio varejo em São Paulo  por mais de dez anos e já participei de alguns projetinhos legais :D </h3>
   
-  Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
+  <h3 align-"center">Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
 
 - 🔭 Atualmente estou com um projeto de portfólio pessoal usando Python **Loading |▣▣▣▣▣▣◻◻◻◻|**
 
