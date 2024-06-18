@@ -1,5 +1,5 @@
 <h1 align="center">Excelente dia! 👋, Eu sou o Rafael Felipe Ferreira</h1>
-<h2 align="center">Aprendi bastante coisa até aqui, e anseio por aprender e aplicar muito mais.![image](https://github.com/Rafaelff88/Rafaelff88/assets/79378786/d01ed6ae-cbbb-4f33-82a0-19c459f72b99)
+<h2 align="center">Aprendi bastante coisa até aqui, e anseio por aprender e aplicar muito mais.
 </h2>
 <h3 align="center">  
   Meu foco é Dados em Análise de dados, atualmente estudando Engenharia de Dados na Data Science Academy. 
