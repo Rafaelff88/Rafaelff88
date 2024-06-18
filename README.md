@@ -7,11 +7,11 @@
   Conheço bastante SQL e sei a importância e relevância dessa ferramenta no uso dos dados estruturados
   Gostaria de mencionar que já tive experiências com contabilidade, administração e finanças. Geri uma empresa no comércio varejo em São Paulo  por mais de dez anos e já participei de alguns projetinhos legais :D </h3>
   
-  <h3 align="center">Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
+<h3 align="center">Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
 
-- 🔭 Atualmente estou com um projeto de portfólio pessoal usando Python **Loading |▣▣▣▣▣▣◻◻◻◻|**
+<h2 align="center">\n- 🔭 Atualmente trabalhando em um projeto de portfólio pessoal usando Python **Loading |▣▣▣▣▣▣◻◻◻◻|**\/</h2>
 
-- 📫 Email para contato **rafael.rfdesign@gmail.com**
+<h3 align="center">- 📫 Email para contato **rafael.rfdesign@gmail.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
