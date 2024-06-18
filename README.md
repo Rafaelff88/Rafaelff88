@@ -9,9 +9,9 @@
   
 <h3 align="center">Possuo formação em Analista de Dados, Analista de Comércio Exterior e Formação Técnica em TI</h3>
 
-<h2 align="center"> -> 🔭 Atualmente trabalhando em um projeto de portfólio pessoal usando Python ***Loading |▣▣▣▣▣▣◻◻◻◻|***\/</h2>
+<h2 align="center"> -> 🔭 Atualmente trabalhando em um projeto de portfólio pessoal usando Python *** -- Loading |▣▣▣▣▣▣◻◻◻◻| -- ***</h2>
 
-<h3 align="center"> -> 📫 Email para contato **rafael.rfdesign@gmail.com**</h3>
+<h3 align="center"> -> 📫 Email para contato *** -- rafael.rfdesign@gmail.com -- ***</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
